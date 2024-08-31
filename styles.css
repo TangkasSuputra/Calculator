@@ -1,0 +1,19 @@
+body {
+    background-color: #f8f9fa;
+}
+
+.calculator {
+    width: 320px;
+    border-radius: 20px;
+}
+
+#display {
+    height: 70px;
+    font-size: 2rem;
+    border-radius: 10px;
+}
+
+.btn-lg {
+    font-size: 1.5rem;
+    border-radius: 10px;
+}
